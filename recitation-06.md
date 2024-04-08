@@ -61,7 +61,7 @@ Today we'll learn more about dynamic programming using the classic problem of co
 **8** When computing $F_n$, what is the maximum number of times that $F_i$ will be read for any value $i$? Based on this, what is the **work** and **span** of `fib_bottom_up`?
 
 **put answer in answers.md**  
-.  
+.  The maximum number of times that F_i will get read is n-2 times
 .  
 .  
 
